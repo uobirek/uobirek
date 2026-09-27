@@ -1,5 +1,9 @@
-# 💫 About Me:
-## Hi, I'm Ula! <br><br>💻 4th year Computer Science student at Warsaw University of Technology <br>📱 Junior Mobile App Developer<br>🎨 Passionate about designing and developing sleek, user-friendly apps <br><br>
+About Me:
+💻 Graduated from Computer Science at Warsaw University of Technology <br>
+📱 Junior Mobile App Developer<br>
+🎨 Passionate about designing and developing sleek, user-friendly apps <br><br>
+
+📄 My Bachelor's thesis (polish): [Bachelor's Thesis.pdf](https://github.com/user-attachments/files/32701471/Bachelor.s.Thesis.pdf)
 
 
 # 💻 Tech Stack:
